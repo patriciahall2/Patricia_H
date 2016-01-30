@@ -6,5 +6,10 @@ h1 {
   margin-left: 135px;
 }
 ul {
-  color:blue;
+  color:#6449b0;
+  }
+.examples {
+  color:#00d2ff;
+  text-indent: 15px;
+  font-style: italic;
   }
